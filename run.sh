@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0 python mainpro.py --dataset CIFAR100 -e 90 -d --lr 0.02 --exp-name ACAD-CIFAR100
